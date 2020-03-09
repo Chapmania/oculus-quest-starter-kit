@@ -11,7 +11,7 @@ Make this repo your own by doing the following steps:
 3. Remove the .git file inside the root folder (the .git file is normally a hidden file)
 4. (Optional) Open the ProjectSettings.asset file (ProjectSettings/ProjectSettings.asset) in a text editor and change the productName variable, ideally to the same name as your project folder (you could also do this via Player Settings in the editor)
 5. (Optional) Reinitialize git
-6. Install the Unity packages and configure the settings if they are not yet set up (the repo should already contain these changes)
+6. Install the Unity packages and configure the settings if they are not yet set up (the repo should already contain these settings)
 
 ## Software
 
