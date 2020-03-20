@@ -1,6 +1,6 @@
-# Oculus Quest Unity Project
+# Oculus Quest Starter Kit
 
-This is a Unity starter project for the Oculus Quest platform.
+This is a Unity starter kit for the Oculus Quest platform.
 
 ## Installation instructions
 
