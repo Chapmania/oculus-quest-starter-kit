@@ -1,4 +1,4 @@
-# Oculus Quest Unity Starter
+# Oculus Quest Unity Project
 
 This is a Unity starter project for the Oculus Quest platform.
 
